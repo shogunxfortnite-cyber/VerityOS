@@ -100,3 +100,6 @@ I made Verity OS because I wanted to try making a WebOS that feels like a actual
 This is version 1.0 and there is still alot of things that I can improve later.
 
 Made for Stardance WebOS 1 competion.
+Verity OS 2
+better AI
+more APPS
