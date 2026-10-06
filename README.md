@@ -1,6 +1,6 @@
-VerityOS 
+##VerityOS 
 An OS by the verity theme. This took me only 1 hour to make.
-Main features:
+#Main features:
 Personal AI assistant
 Calculator
 Settings
