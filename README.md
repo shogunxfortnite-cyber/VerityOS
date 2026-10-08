@@ -6,7 +6,7 @@ I wanted to make a simple operating system that looks futuristik but is still ea
 
 ## Verity AI
 
-Verity AI is a offline assitant inside Verity OS. It dosnt need a API key or internet connection.
+Verity AI is a offline assitant inside Verity OS. It dosnt need internet.
 
 It can do things like:
 
@@ -98,7 +98,7 @@ I made it as a part of the operating system so it can also open some other apps 
 I made Verity OS because I wanted to try making a WebOS that feels like a actual operating system instead of just a normal web page.
 
 This is version 1.0 and there is still alot of things that I can improve later.
-
+## verity os 2
 Made for Stardance WebOS 1 competion.
 Verity OS 2
 better AI
